@@ -4,7 +4,7 @@ title: About me
 
 
 디지털 프로덕트를 기획합니다. <br>
-be kind. be thankful. 
+<font color="gray">- Be kind & thankful. </font>
 
 <br>
 
