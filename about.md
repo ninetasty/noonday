@@ -2,8 +2,29 @@
 title: About me
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+디지털 프로덕트를 기획합니다.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+1. 불편함을 편리함으로, 
+보통의 지루함을 찰나의 재미, 청량함으로 바꾸기 위해 노력합니다. 
+
+2. 커다란 두려움과 공포 해결 대신 작은 두려움과 불안, 의심, 공포를 제거하는 방안에 관심이 많습니다. (인간은 누구나 두려움과 회피본능을 갖는다고 생각합니다.)
+
+3. 이윤 추구는 기업의 목적이 아니라 결과라 믿습니다. 조직 문화에 관심이 많습니다. 좋은 문화가 좋은 사람을 만나 좋은 상품이 나오고 좋은 결과로 이뤄진다 생각합니다.
+
+4. 언리더십을 지지합니다. 리더십은 모두가 가지는 것이지 한두명이 가지는게 아닙라고 생각합니다. 올바른 성공은 한두명의 손에 결정되는게 아닌, 모두의 노력으로 만들어진다고 믿습니다.
+
+5.  모두가 자신의 역할에 충실하고 배려하고 부족한 부분을 챙겨줄 때 우리는 무적이 되고 성공이란 열매를 얻게 됨을 믿습니다. 최종 결정권은 리더가 아닌, 현장에 가장 가까운 실무자, 가장 고민을 많이 한 사람에게 주어져야 하고, 이런 자율성이 보장되었을 때 우/리/모/두/가 리더십을 가질 수 있다고 생각합니다.
+
+6. 가장 기피하는건 오만함입니다. 오만한 사람과 교만한 문화 아래서는 더나은 성장과 대안 제시가 어렵다고 생각합니다.
+
+7. 가장 따르고 싶은 가치와 행동은 시편 1장 1~3절입니다. 단순하지만 실천하기엔 항상 어렵고 용기가 필요했습니다.
+>복 있는 사람은 악인들의 꾀를 따르지 아니하며 죄인들의 길에 서지 아니하며 오만한 자들의 자리에 앉지 아니하고
+
+>오직 여호와의 율법을 즐거워하여 그의 율법을 주야로 묵상하는도다.
+
+>그는 시냇가에 심은 나무가 철을 따라 열매를 맺으며 그 잎사귀가 마르지 아니함 같으니 그가 하는 모든 일이 다 형통하리로다
+
+ 
+
+Find me on [mirror](https://mirror.xyz/0x2f5AB15E3e00885ba6602F286c489fB224914b8a) or [email](sunnoonday@gmail.com).
