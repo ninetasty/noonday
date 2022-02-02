@@ -4,7 +4,7 @@ description:      "정오의 태양처럼 빛나라!."
 url:              https://noondayz.github.io/blog # Site url, without a slash at the end.
 signoff:          "noonday" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: G-R68DSTWS24 # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            true # Turn on twitter and facebook share buttons
 
 links:
