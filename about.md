@@ -3,8 +3,9 @@ title: About me
 ---
 
 
-디지털 프로덕트를 기획합니다. <br>
-<font color="gray">- Be kind & thankful. </font>
+디지털 프로덕트를 기획합니다.
+
+<font color="gray">- Be nice & thankful. </font>
 
 <br>
 
