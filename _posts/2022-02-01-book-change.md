@@ -146,6 +146,6 @@ date: 2022-02-01 09:00:00
 
 김지수의 인터스텔라에 저자 인터뷰가 올라와있다. 책 복습하기에 좋은 인터뷰!
 
-<a href="https://biz.chosun.com/notice/interstellar/2021/11/06/67KDE34OXZB7NEY4OOIHMYY45I/" class="pa3 tc ba br2 db"> 인플루언서 효과 착각 많아…강한 유대 주목해야💖</a>
+<a href="https://biz.chosun.com/notice/interstellar/2021/11/06/67KDE34OXZB7NEY4OOIHMYY45I/" target='_blank' class="pa3 tc ba br2 db"> 인플루언서 효과 착각 많아…강한 유대 주목해야💖</a>
 
-<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274371912" class="pa3 tc ba br2 db"> 변화는 어떻게 일어나는가 - 알라딘에서 보기📔</a>
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274371912" target='_blank' class="pa3 tc ba br2 db"> 변화는 어떻게 일어나는가 - 알라딘에서 보기📔</a>
