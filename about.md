@@ -3,7 +3,7 @@ title: About me
 ---
 
 
-디지털 프로덕트를 기획합니다.
+### 디지털 프로덕트를 기획합니다.
 
 <font color="gray">- Be nice & thankful. </font>
 
@@ -31,22 +31,24 @@ title: About me
 
 ---
 
-세상에 공의(공평함과 의로움)가 가득하게 만들어 보자!란 꿈을 쫓고 있습니다.
+### 세상에 공의(공평함과 의로움)가 가득하게 만들어 보자!란 꿈을 쫓고 있습니다.
 
 <font color="gray">- like the noonday sun. </font>
+
+<br>
 
 - 생명 살리기에 관심이 많습니다. ㅡ 농업, 의료, 헬스, 교육
 
 
 - 착하고 선한 사람이 이기는 & 잘 사는 세상을 만들기 위해 고민합니다. ㅡ 웰니스
 
-- 두려움과 외로움이 지배하는 고독한 이 세상에 행복 무기를 개발하고 공급하는 디지털 무기상이 되어보겠습니다. (가능할까 싶지만..;)  
+- 두려움과 외로움이 지배하는 고독한 이 세상에 행복 무기를 개발하고 공급하는 디지털 무기상이 되어 보겠습니다. (가능할까 싶지만..;)  
  
- - 지적인 자 보다 착한 사람이 되보려고 합니다. 존경하는  [이어령 교수님](https://biz.chosun.com/notice/interstellar/2022/01/01/6NTPJJ7EORHQLOONBANIV6VDM4/) 말씀하시길 "산업에서 AI 몫이 커지면, 인간은 ‘생각하는 자’ ‘돕는 자’ ’마음이 따뜻한 자’로 서로의 차이를 느껴요. 똑똑한 사람은 아무리 높이 올라도 AI를 못 따라가죠. 지적인 사람과 착한 사람이 붙으면, 착한 사람이 이깁니다." 라고 하셨기 때문이죠. 저는 이기고 싶거든요.
+ - 지적인 자 보다 착한 사람이 되보려고 합니다. [존경하는 이어령 교수님](https://biz.chosun.com/notice/interstellar/2022/01/01/6NTPJJ7EORHQLOONBANIV6VDM4/) 말씀이 <i> "산업에서 AI 몫이 커지면, 인간은 ‘생각하는 자’ ‘돕는 자’ ’마음이 따뜻한 자’로 서로의 차이를 느껴요. 똑똑한 사람은 아무리 높이 올라도 AI를 못 따라가죠. 지적인 사람과 착한 사람이 붙으면, 착한 사람이 이깁니다." </i> 라고 하셨기 때문이죠. 저는 이기고 싶거든요.
 
- - 그리고 "이젠 AI가 아니라 AW세상이에요. Artificial intelligence가 아니라 Artificial wisdom이죠. AI로 전쟁 무기를 만들었다면 AW로는 행복의 무기를 만드세요. 사랑하는 이와 떨어져 잠들어도 한 몸처럼 느끼는 AW 베개 만드세요. 서양 사람은 기껏해야 깃털 베개 만들었지만, 우리는 조 넣고 콩 넣어서 바이오 베개 만든 민족입니다. 조상 중에 아인슈타인도 퀴리 부인도 없지만, 지혜와 멋이 배인 생활의 역사가 있어요.” 라고도 하셔서 행복의 무기도 만들어 볼까 합니다.
+ - 그리고 <i>"이젠 AI가 아니라 AW세상이에요. Artificial intelligence가 아니라 Artificial wisdom이죠. AI로 전쟁 무기를 만들었다면 AW로는 행복의 무기를 만드세요. 사랑하는 이와 떨어져 잠들어도 한 몸처럼 느끼는 AW 베개 만드세요. 서양 사람은 기껏해야 깃털 베개 만들었지만, 우리는 조 넣고 콩 넣어서 바이오 베개 만든 민족입니다. 조상 중에 아인슈타인도 퀴리 부인도 없지만, 지혜와 멋이 배인 생활의 역사가 있어요.” </i>라고도 하셔서 행복의 무기도 만들어 볼까 합니다.
 
- - 같은 생각을 같고 있다면 언제든 맨아래 메일로 연락주세요.
+ - 같은 생각을 같고 있다면 언제든 아래 메일로 연락주세요.
 
 
 
@@ -55,4 +57,9 @@ title: About me
 >Commit your way to the LORD; trust in him and he will do this: He will make your righteousness shine like the dawn, the justice of your cause like the noonday sun.
 
 
-Find me on [mirror](https://mirror.xyz/0x2f5AB15E3e00885ba6602F286c489fB224914b8a) or email: sunnoonday@gmail.com
+---
+
+### The end
+
+Like it? [email me](sunnoonday@gmail.com)<br/>
+Find me on [mirror](https://mirror.xyz/0x2f5AB15E3e00885ba6602F286c489fB224914b8a) 
