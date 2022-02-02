@@ -61,5 +61,5 @@ title: About me
 
 ## KEEP IN TOUCH
 
-Like it? [email me](sunnoonday@gmail.com)<br/>
+Like it? [email me](https://forms.gle/zS8cvzkb2wZ76KaH6)<br/>
 Find me on [mirror](https://mirror.xyz/0x2f5AB15E3e00885ba6602F286c489fB224914b8a) 
