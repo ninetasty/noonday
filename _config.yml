@@ -11,9 +11,13 @@ links:
   - name:         Posts
     url:          /
     external:     false
+  - name:         Idea
+    url:          /idea
+    external:     false
   - name:         About me
     url:          /about
     external:     false
+    
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
