@@ -1,5 +1,5 @@
 ---
-title: Idea🌟
+title: 🌟Idea
 ---
 
 
