@@ -165,28 +165,28 @@ date: 2022-02-20 10:00:00
   <tr>
     <th>구분</th>
     <th>협력적</th>
-    <th >경쟁적</th>
-    <th >단독</th>
+    <th>경쟁적</th>
+    <th>단독</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td >건설적</td>
-    <td >공동 작곡</td>
-    <td >버스킹</td>
-    <td >연습</td>
+    <td>건설적</td>
+    <td>공동 작곡</td>
+    <td>버스킹</td>
+    <td>연습</td>
   </tr>
   <tr>
-    <td >경험적</td>
-    <td >대중 공연</td>
-    <td >경연</td>
-    <td >음악 감상</td>
+    <td>경험적</td>
+    <td>대중 공연</td>
+    <td>경연</td>
+    <td>음악 감상</td>
   </tr>
   <tr>
-    <td >해체적</td>
-    <td >청음 연습</td>
-    <td >음악 비평</td>
-    <td >분석</td>
+    <td>해체적</td>
+    <td>청음 연습</td>
+    <td>음악 비평</td>
+    <td>분석</td>
   </tr>
 </tbody>
 </table>
@@ -197,28 +197,28 @@ date: 2022-02-20 10:00:00
   <tr>
     <th>구분</th>
     <th>협력적</th>
-    <th >경쟁적</th>
-    <th >단독</th>
+    <th>경쟁적</th>
+    <th>단독</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td >건설적</td>
-    <td >커뮤니티</td>
-    <td >직업</td>
-    <td >취미</td>
+    <td>건설적</td>
+    <td>커뮤니티</td>
+    <td>직업</td>
+    <td>취미</td>
   </tr>
   <tr>
-    <td >경험적</td>
-    <td >공연</td>
-    <td >스포츠</td>
-    <td >관객</td>
+    <td>경험적</td>
+    <td>공연</td>
+    <td>스포츠</td>
+    <td>관객</td>
   </tr>
   <tr>
-    <td >해체적</td>
-    <td >강의</td>
-    <td >비평</td>
-    <td >분석</td>
+    <td>해체적</td>
+    <td>강의</td>
+    <td>비평</td>
+    <td>분석</td>
   </tr>
 </tbody>
 </table>
@@ -229,28 +229,28 @@ date: 2022-02-20 10:00:00
   <tr>
     <th>구분</th>
     <th>협력적</th>
-    <th >경쟁적</th>
-    <th >단독</th>
+    <th>경쟁적</th>
+    <th>단독</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td >건설적</td>
-    <td >게임 디자인팀</td>
-    <td >상업적 게임 개발</td>
-    <td >인디 개발, 모드 스킨 제작</td>
+    <td>건설적</td>
+    <td>게임 디자인팀</td>
+    <td>상업적 게임 개발</td>
+    <td>인디 개발, 모드 스킨 제작</td>
   </tr>
   <tr>
-    <td >경험적</td>
-    <td >협력 플레이게임 환경</td>
-    <td >플레이어 대 플레이어 게임</td>
-    <td >싱글 플레이어 게임</td>
+    <td>경험적</td>
+    <td>협력 플레이게임 환경</td>
+    <td>플레이어 대 플레이어 게임</td>
+    <td>싱글 플레이어 게임</td>
   </tr>
   <tr>
-    <td >해체적</td>
-    <td >공략 작성</td>
-    <td >해킹과 치팅</td>
-    <td >이 책을 쓰는 것</td>
+    <td>해체적</td>
+    <td>공략 작성</td>
+    <td>해킹과 치팅</td>
+    <td>이 책을 쓰는 것</td>
   </tr>
 </tbody>
 </table>
