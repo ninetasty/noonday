@@ -12,7 +12,7 @@ links:
     url:          /
     external:     false
   - name:         Diary
-    url:          /posts/diary
+    url:          /diary
     external:     false
   - name:         About
     url:          /about
