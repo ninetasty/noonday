@@ -11,8 +11,8 @@ links:
   - name:         Posts
     url:          /
     external:     false
-  - name:         Diary
-    url:          /diary
+  - name:         Books
+    url:          /books
     external:     false
   - name:         About
     url:          /about
