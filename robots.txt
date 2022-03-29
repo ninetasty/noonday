@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noondayz.github.io/blog/sitemap.xml
