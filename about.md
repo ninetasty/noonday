@@ -3,7 +3,7 @@ title: 👋About me
 ---
 
 
-### <del> 디지털 프로덕트를 기획합니다.</del> 나를 고용할 그 날을 꿈꿉니다.
+### 디지털 프로덕트를 기획합니다.
 
 <font color="gray">- Be kind & thankful </font>
 
