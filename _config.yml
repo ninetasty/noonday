@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "noonday sun's blog"
-description:      "정오의 태양처럼 빛나라!."
-url:              https://noondayz.github.io/blog # Site url, without a slash at the end.
-signoff:          "noonday sun" # Your name
+title:            "noonday's blog"
+description:      "독서와 디지털 전환, 잡담을 씁니다."
+url:              https://noonday.site # Site url, without a slash at the end.
+signoff:          "noonday" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: G-R68DSTWS24 # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            true # Turn on twitter and facebook share buttons
