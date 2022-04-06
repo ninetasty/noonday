@@ -1,6 +1,7 @@
 ---
 title: B06. 게임 책/ 라프 코스터의 재미이론
 date: 2022-02-20 10:00:00
+comments: true
 ---
 
 ### 라프 코스터의 재미이론
@@ -158,3 +159,7 @@ date: 2022-02-20 10:00:00
     - 단독
 
  <img src="https://noondayz.github.io/blog/images/table.jpg">
+
+ 
+---
+

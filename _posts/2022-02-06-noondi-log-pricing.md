@@ -1,6 +1,7 @@
 ---
 title: 디지털잡담 - 투자자를 위한 요금제 등장!
 date: 2022-02-05 23:00:00
+comments: true
 ---
 
 <font color="gray">이런, 신박한 요금제라니</font>
@@ -26,3 +27,7 @@ date: 2022-02-05 23:00:00
 <img src="https://noondayz.github.io/blog/images/0206_pricing.png" alt="pricing" width="630" height="330">
 
 [사이트는 sizze.io](https://www.sizze.io/)
+
+
+---
+
