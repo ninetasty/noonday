@@ -1,5 +1,5 @@
 ---
-title: B02. 경영 책/ 토이리즘
+title: 경영 책/ 토이리즘 - B02
 date: 2022-02-07 10:00:00
 comments: true
 ---
