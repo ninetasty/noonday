@@ -8,6 +8,9 @@ google_analytics: G-R68DSTWS24 # Set tracking, remove from /javascripts/basic.js
 share:            true # Turn on twitter and facebook share buttons
 
 links:
+  - name:         Talks
+    url:          /talks
+    external:     false
   - name:         Posts
     url:          /
     external:     false
