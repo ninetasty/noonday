@@ -15,9 +15,14 @@ title: Talks
 암인..을 아미로 잘못 들었다. bts 지금 안보면 언제 보겠어!라며 영상 챙겨보긴 했는데 저렇게까지 들리는거야?
 개인적으로 RM의 가사센스가 너무 좋다.
 
-> 난 변화는 많았지만 변함은 없었다 해
-> bts [yet to come](https://www.youtube.com/watch?v=kXpOEzNZ8hQ)
+> 난 변화는 많았지만 <br>
+> 변함은 없었다 해 <br>
+> [BTS, yet to come](https://www.youtube.com/watch?v=kXpOEzNZ8hQ)
 
+
+> 우린 평행선 <br>
+> 같은 곳을 보지만 넘 다르지 <br>
+> [BTS, danger](https://www.youtube.com/watch?v=bagj78IQ3l0)
 
 ---
 
